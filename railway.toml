@@ -1,0 +1,3 @@
+[service]
+name = "playwright-bot"
+start = "python script.py"
